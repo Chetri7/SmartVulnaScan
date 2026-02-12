@@ -17,10 +17,7 @@ Quick start
      ```powershell
      python -m venv venv; .\venv\Scripts\Activate.ps1
      ```
-2. Install dependencies (if you have a `requirements.txt`):
-   ```powershell
-   pip install -r requirements.txt
-   ```
+2. Install dependencies 
 3. Run the scanner (adjust arguments as needed):
    ```powershell
    python SmartVulnaScan.py
